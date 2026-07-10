@@ -1,0 +1,20 @@
+Habakkuk Portfolio CV
+
+Name: Habakkuk
+Role: Web Designer & Frontend Developer
+Email: habakkuk@example.com
+Phone: +260 972 126 621 / +260 765 394 426
+
+Summary:
+Creative and detail-oriented professional with a passion for building modern, responsive, and user-friendly web experiences.
+
+Skills:
+- HTML, CSS, JavaScript
+- Responsive Web Design
+- UI/UX Basics
+- Content Creation
+- Project Management
+
+Experience:
+- Designed and built personal and business web pages
+- Focused on clean layouts, accessible content, and strong visual storytelling
